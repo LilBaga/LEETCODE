@@ -15,3 +15,9 @@ LINKED LIST
 | Topic | Link | Solution|
 | :---: | :---: | :---: |
 | Reverse a Linked List | https://leetcode.com/problems/reverse-linked-list/ | // |
+
+
+BINARY SEARCH TREE
+| Topic | Link | Solution|
+| :---: | :---: | :---: |
+| Binary Search | https://leetcode.com/problems/binary-search/ | // |
