@@ -1,9 +1,15 @@
-# LEETCODE
+# Study Guide for a Beginners on Leetcode:
 Study Guide for a Beginners on Leetcode:
-1) Array
-2) Linked List 
-3) Stack
-4) Queue
+1) Linked List
+2) Stack
+3) Queue
+4) Binary Search Tree
+5) Hash Table and Map
+6) Sorting algorithms
+7) Searching algorithms
+8) Greedy Algorithms
+9) Dynamic Programming basics
+10) Graph BFS and DFS
 
 LINKED LIST 
 | Topic | Link | Solution|
