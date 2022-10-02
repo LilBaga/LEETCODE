@@ -1,4 +1,4 @@
-number-of-dice-rolls-with-target-sum link:https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/
+#number-of-dice-rolls-with-target-sum link:https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/
 class Solution:
     def numRollsToTarget(self, d: int, f: int, target: int) -> int:
          @lru_cache(maxsize=None)
